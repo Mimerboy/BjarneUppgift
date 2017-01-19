@@ -8,5 +8,11 @@ namespace ConsoleApplication1
 {
     class MyMethod
     {
+        public void Run()
+        {
+            Console.WriteLine("Hello World!");
+        }
+
+
     }
 }

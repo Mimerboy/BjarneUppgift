@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            MyMethod newMethod = new MyMethod();
+
+            newMethod.Run();
 
 
         }
